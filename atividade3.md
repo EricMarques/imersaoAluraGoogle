@@ -110,4 +110,4 @@ carregarArquivoDrive(arquivoApp);
 
 - Este código é apenas uma simulação e **não realiza o envio real do app para a Play Store**.
 - O envio real deve ser feito através do Play Console, seguindo as etapas oficiais da Google.
-- Consulte a documentação oficial da Google Play para obter mais informações sobre o processo de envio de apps: https://play.google.com/console/signup**
+- Consulte a documentação oficial da Google Play para obter mais informações sobre o processo de envio de apps: https://play.google.com/console/signup
