@@ -63,7 +63,7 @@ Titulo 11:
 Resumo 11: O ano de 2004 trouxe diversos lançamentos clássicos, e alguns jogos ainda podem ser encontrados hoje, 20 anos depois.
 Pensando nisso, o TechTudo separou títulos que você curtia na época e mostra onde achá-los hoje.
 
-Resposta: ## Título 11: Clássicos de 2004: onde jogar os games que você curtia há 20 anos?
+Resposta: Título 11: Clássicos de 2004: onde jogar os games que você curtia há 20 anos?
 Resumo 11: O ano de 2004 foi um marco para a indústria de games, com o lançamento de diversos títulos que se tornaram clássicos e influenciaram gerações de jogadores.
 Duas décadas depois, muitos desses jogos ainda são lembrados com carinho e podem ser revisitados em diferentes plataformas.
 Este resumo explora alguns dos jogos mais populares de 2004 e indica onde os jogadores podem encontrá-los atualmente.
