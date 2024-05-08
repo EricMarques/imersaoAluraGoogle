@@ -59,7 +59,7 @@ Ao que tudo indica, a instabilidade está relacionada à sequência de temporais
 Dados do Downdetector, plataforma que monitora quedas de serviços, indicam pico de 462 reclamações às 16h18 (horário de Brasília).
 No X (antigo Twitter), os clientes se queixam da dificuldade de entrar em contato com a operadora.
 
-Titulo 11:
+Titulo 11:\n
 Resumo 11: O ano de 2004 trouxe diversos lançamentos clássicos, e alguns jogos ainda podem ser encontrados hoje, 20 anos depois.
 Pensando nisso, o TechTudo separou títulos que você curtia na época e mostra onde achá-los hoje.
 
